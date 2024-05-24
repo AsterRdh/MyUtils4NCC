@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Framework_Library">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/framework" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/framework" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/framework" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/framework" recursive="false" type="SOURCES" />
+  </library>
+</component>

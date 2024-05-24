@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Product_Common_Library">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/external/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/external/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/lib" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/external/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/external/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>

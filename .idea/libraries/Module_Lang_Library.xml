@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Module_Lang_Library">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/langlib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/langlib" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/langlib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/langlib" recursive="false" type="SOURCES" />
+  </library>
+</component>

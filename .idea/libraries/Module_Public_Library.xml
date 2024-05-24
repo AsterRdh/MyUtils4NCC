@@ -1,0 +1,935 @@
+<component name="libraryTable">
+  <library name="Module_Public_Library">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrkq/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ewm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmam/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pmr/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebmrp/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/me/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrbm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/purp/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrtmrp/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/it/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/elm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riasm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aesm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqdsndbd/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/iaudit/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/smartba/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriaufr/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fidata/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/price/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/platform/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pubapputil/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ufoc/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/so/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ssckm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/uapfw/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/workbench/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aesm/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/phm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aol/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/dcpp/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrzf/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fip/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pu/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/gpmc/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmbcm-scm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/scapso/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/scaba/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pmv/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fa/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fipub/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ceri/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmpb/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bgm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/uapbd/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/invp/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/tf/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrtpvt/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/obm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscpfa/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riadc/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/uapss/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriartpub/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bda/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/cdmc/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/et/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pcia/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pubapp/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/cca/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscwo/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriamrp/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmecn/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrwa/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bcbd/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fts/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/lcm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fct/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmsfc/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscsfm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebrtpub/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/nresa/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fp/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bda/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmfund/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fmr/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sc/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscqm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmpub/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ufesbexpress/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pcm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/iuap/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscip/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/cmp/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ic/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrtdbd/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/gl/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pubapp/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/uapbs/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riawf/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrpub/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrt/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrtufr/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriapvt/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aedsm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pd/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aum/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriamrp/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/tmpf/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrtrn/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sca/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/lappreportrt/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aim/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriart/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrjx/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pbm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bcbd/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/tam/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmpe/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrsz/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/wmsi/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aedsm/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmbd/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/scmpub/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/alo/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrtpvt/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ifm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pmdoc/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riamm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/epa/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/epmp/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riaam/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrhi/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrpx/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebmrp/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ufoe/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/cm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrt/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrjf/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ssctp/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/webrt/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscpub/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bc/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/itp/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/scaplm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/baseapp/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/uapbd/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pmsch/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riaorg/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sf/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pim/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrcm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ps/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/to/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fbm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqdsndbd/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ufds/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aeam/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ptm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aert/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/iaudit/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmpg/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ftpub/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/emm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aemm/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bond/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/opm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebdbd/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrzz/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmdm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/rum/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebufr/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebrt/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/lightsmart/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fmc/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmsop/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ali/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscbd/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrtufr/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/eom/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/lcdp/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/platform/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqdsnpvt/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/dm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmexit/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscrp/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/rom/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebdbd/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmdp/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/uapbs/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebrtpub/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mpp/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrtdbd/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/uapfwjca/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/lightbq/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/graphic_report/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pmbd/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrrpt/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pmf/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riaaam/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrp/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riart/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ccc/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/lappreportrt/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/baseapp/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriaufr/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebufr/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aemm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ia/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mapub/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aeam/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/batm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bcsi/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriart/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aert/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sn/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ct/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmpac/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ampub/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriadbd/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/imag/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/rlm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ufofr/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/arap/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/icdmc/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriartpub/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/erm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riaorg/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscivm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pma/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/etp/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/lcdp/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/tmpub/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ifac/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmrm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriapvt/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmpps/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmmps/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/uapfwjca/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fiarc/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/credit/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriadbd/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ec/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riaadp/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscpfm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riacc/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrys/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sr/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ffw/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hryf/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riaam/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fd/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/scapto/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/rm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrtmrp/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pcto/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmip/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqdsnpvt/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ent/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmpl/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebrt/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/qc/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrkq/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ewm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmam/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pmr/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebmrp/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/me/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrbm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/purp/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrtmrp/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/it/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/elm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riasm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aesm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqdsndbd/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/iaudit/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/smartba/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriaufr/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fidata/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/price/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/platform/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pubapputil/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ufoc/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/so/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ssckm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/uapfw/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/workbench/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aesm/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/phm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aol/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/dcpp/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrzf/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fip/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pu/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/gpmc/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmbcm-scm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/scapso/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/scaba/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pmv/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fa/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fipub/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ceri/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmpb/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bgm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/uapbd/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/invp/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/tf/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrtpvt/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/obm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscpfa/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riadc/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/uapss/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriartpub/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bda/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/cdmc/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/et/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pcia/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pubapp/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/cca/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscwo/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriamrp/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmecn/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrwa/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bcbd/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fts/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/lcm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fct/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmsfc/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscsfm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebrtpub/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/nresa/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fp/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bda/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmfund/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fmr/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sc/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscqm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmpub/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ufesbexpress/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pcm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/iuap/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscip/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/cmp/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ic/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrtdbd/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/gl/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pubapp/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/uapbs/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riawf/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrpub/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrt/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrtufr/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriapvt/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aedsm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pd/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aum/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriamrp/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/tmpf/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrtrn/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sca/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/lappreportrt/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aim/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriart/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrjx/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pbm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bcbd/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/tam/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmpe/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrsz/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/wmsi/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aedsm/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmbd/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/scmpub/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/alo/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrtpvt/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ifm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pmdoc/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riamm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/epa/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/epmp/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riaam/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrhi/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrpx/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebmrp/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ufoe/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/cm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrt/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrjf/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ssctp/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/webrt/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscpub/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bc/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/itp/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/scaplm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/baseapp/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/uapbd/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pmsch/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riaorg/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sf/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pim/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrcm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ps/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/to/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fbm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqdsndbd/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ufds/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aeam/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ptm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aert/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/iaudit/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmpg/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ftpub/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/emm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aemm/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bond/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/opm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebdbd/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrzz/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmdm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/rum/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebufr/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebrt/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/lightsmart/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fmc/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmsop/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ali/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscbd/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrtufr/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/eom/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/lcdp/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/platform/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqdsnpvt/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/dm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmexit/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscrp/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/rom/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebdbd/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmdp/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/uapbs/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebrtpub/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mpp/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrtdbd/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/uapfwjca/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/lightbq/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/graphic_report/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pmbd/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrrpt/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pmf/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riaaam/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrp/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riart/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ccc/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/lappreportrt/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/baseapp/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriaufr/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebufr/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aemm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ia/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mapub/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aeam/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/batm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bcsi/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriart/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aert/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sn/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ct/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmpac/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ampub/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriadbd/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/imag/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/rlm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ufofr/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/arap/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/icdmc/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriartpub/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/erm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riaorg/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscivm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pma/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/etp/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/lcdp/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/tmpub/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ifac/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmrm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriapvt/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmpps/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmmps/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/uapfwjca/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fiarc/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/credit/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriadbd/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ec/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riaadp/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscpfm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riacc/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrys/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sr/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ffw/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hryf/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riaam/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fd/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/scapto/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/rm/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrtmrp/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pcto/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmip/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqdsnpvt/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ent/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmpl/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebrt/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/qc/lib" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aeam/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aedsm/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aemm/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aert/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aesm/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aim/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ali/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/alo/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ampub/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aol/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/arap/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aum/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/baseapp/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/batm/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bc/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bcbd/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bcsi/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bda/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bgm/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bond/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqdsndbd/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqdsnpvt/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriadbd/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriamrp/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriapvt/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriart/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriartpub/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriaufr/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrt/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrtdbd/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrtmrp/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrtpvt/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrtufr/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebdbd/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebmrp/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebrt/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebrtpub/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebufr/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/cca/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ccc/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/cdmc/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/cm/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/cmp/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/credit/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ct/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/dcpp/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/dm/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ec/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/elm/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/emm/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ent/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/eom/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/epa/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/epmp/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/erm/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/et/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/etp/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ewm/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fa/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fbm/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fct/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fd/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ffw/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fiarc/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fidata/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fip/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fipub/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fmc/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fmr/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fp/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ftpub/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fts/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/gl/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/gpmc/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/graphic_report/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrbm/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrcm/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrhi/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrjf/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrjx/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrkq/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrp/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrpub/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrpx/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrrpt/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrsz/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrtrn/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrwa/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hryf/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrys/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrzf/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrzz/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ia/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/iaudit/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ic/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/icdmc/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ifac/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ifm/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/imag/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/invp/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmam/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmbd/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmdm/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmexit/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmfund/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmip/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmpb/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmpe/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmpg/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmpl/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmrm/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/it/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/itp/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/iuap/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/lappreportrt/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/lcdp/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/lcm/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/lightbq/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/lightsmart/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mapub/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/me/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmbcm-scm/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmdp/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmecn/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmmps/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmpac/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmpps/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmpub/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmsfc/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmsop/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mpp/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/nresa/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/obm/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/opm/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pbm/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pcia/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pcm/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pcto/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pd/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/phm/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pim/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/platform/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pma/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pmbd/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pmdoc/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pmf/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pmr/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pmsch/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pmv/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/price/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ps/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ptm/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pu/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pubapp/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pubapputil/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/purp/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/qc/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riaaam/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riaadp/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riaam/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riacc/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riadc/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riamm/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riaorg/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riart/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riasm/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riawf/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/rlm/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/rm/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/rom/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/rum/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sc/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sca/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/scaba/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/scaplm/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/scapso/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/scapto/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/scmpub/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sf/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/smartba/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sn/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/so/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sr/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscbd/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscip/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscivm/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ssckm/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscpfa/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscpfm/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscpub/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscqm/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscrp/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscsfm/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ssctp/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscwo/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/tam/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/tf/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/tmpf/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/tmpub/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/to/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/uapbd/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/uapbs/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/uapfw/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/uapfwjca/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/uapss/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ufds/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ufesbexpress/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ufoc/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ufoe/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ufofr/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/webrt/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/wmsi/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/workbench/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aeam/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aedsm/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aemm/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aert/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aesm/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aim/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ali/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/alo/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ampub/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aol/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/arap/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aum/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/baseapp/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/batm/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bc/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bcbd/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bcsi/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bda/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bgm/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bond/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqdsndbd/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqdsnpvt/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriadbd/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriamrp/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriapvt/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriart/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriartpub/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriaufr/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrt/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrtdbd/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrtmrp/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrtpvt/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrtufr/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebdbd/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebmrp/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebrt/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebrtpub/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebufr/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/cca/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ccc/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/cdmc/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/cm/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/cmp/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/credit/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ct/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/dcpp/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/dm/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ec/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/elm/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/emm/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ent/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/eom/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/epa/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/epmp/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/erm/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/et/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/etp/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ewm/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fa/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fbm/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fct/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fd/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ffw/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fiarc/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fidata/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fip/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fipub/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fmc/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fmr/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fp/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ftpub/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fts/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/gl/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/gpmc/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/graphic_report/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrbm/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrcm/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrhi/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrjf/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrjx/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrkq/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrp/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrpub/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrpx/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrrpt/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrsz/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrtrn/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrwa/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hryf/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrys/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrzf/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrzz/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ia/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/iaudit/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ic/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/icdmc/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ifac/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ifm/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/imag/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/invp/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmam/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmbd/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmdm/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmexit/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmfund/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmip/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmpb/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmpe/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmpg/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmpl/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmrm/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/it/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/itp/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/iuap/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/lappreportrt/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/lcdp/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/lcm/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/lightbq/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/lightsmart/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mapub/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/me/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmbcm-scm/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmdp/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmecn/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmmps/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmpac/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmpps/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmpub/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmsfc/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmsop/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mpp/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/nresa/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/obm/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/opm/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pbm/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pcia/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pcm/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pcto/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pd/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/phm/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pim/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/platform/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pma/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pmbd/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pmdoc/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pmf/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pmr/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pmsch/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pmv/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/price/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ps/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ptm/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pu/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pubapp/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pubapputil/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/purp/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/qc/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riaaam/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riaadp/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riaam/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riacc/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riadc/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riamm/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riaorg/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riart/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riasm/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riawf/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/rlm/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/rm/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/rom/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/rum/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sc/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sca/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/scaba/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/scaplm/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/scapso/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/scapto/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/scmpub/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sf/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/smartba/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sn/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/so/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sr/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscbd/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscip/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscivm/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ssckm/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscpfa/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscpfm/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscpub/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscqm/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscrp/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscsfm/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ssctp/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscwo/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/tam/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/tf/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/tmpf/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/tmpub/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/to/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/uapbd/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/uapbs/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/uapfw/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/uapfwjca/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/uapss/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ufds/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ufesbexpress/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ufoc/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ufoe/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ufofr/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/webrt/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/wmsi/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/workbench/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>

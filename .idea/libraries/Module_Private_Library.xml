@@ -1,0 +1,871 @@
+<component name="libraryTable">
+  <library name="Module_Private_Library">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmsfc/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmip/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscpfa/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrtufr/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrtmrp/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/invp/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aemm/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrwa/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/erm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriamrp/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ssckm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ewm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscsfm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ct/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/dm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmfund/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmdp/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aert/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aum/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ptm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riaorg/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pmbd/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/uapfwjca/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrp/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/tmpub/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/uapbs/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriadbd/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmbd/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pmr/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrhi/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/arap/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riadc/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/scaplm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fbm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmpl/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/opm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/tam/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/webrt/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aemm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmmrp/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/lightsmart/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscpub/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pim/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fidata/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriartpub/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/epmp/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/smartba/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrpub/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ufoc/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/epa/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ufoe/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscrp/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fp/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrtdbd/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/qc/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/to/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bcbd/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmam/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmrm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/purp/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fip/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrrpt/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscwo/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebrtpub/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmecn/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/so/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aesm/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ic/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bcbd/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebmrp/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ifac/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bgr/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriapvt/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmpe/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriapvt/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscip/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/baseapp/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriart/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/elm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/gpmc/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/uapbd/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/cca/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebdbd/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ali/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriaufr/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/lappreportrt/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscbd/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriartpub/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hryf/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/workbench/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/cm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/scaba/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrtmrp/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriamrp/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/eom/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmpb/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmmps/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fa/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/scmpub/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmbcm-scm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riamm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ps/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riacc/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/iaudit/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ufds/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/lcdp/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/lappreportrt/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/imag/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmsop/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aesm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/uapss/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrjf/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ufesbexpress/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/nresa/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riaadp/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/platform/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fipub/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmexit/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pma/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/emm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmpg/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrt/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pd/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebrt/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riawf/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ia/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fd/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aeam/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqdsndbd/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pmf/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriadbd/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aeam/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrzz/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebrt/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fmr/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pbm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/rum/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ssctp/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmpac/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aedsm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmpps/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mpp/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebrtpub/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqdsnpvt/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrcm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/uapfwjca/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aim/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bda/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sca/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pmv/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrtufr/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pubapp/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/platform/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscivm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fmc/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riaorg/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrbm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrtrn/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/icdmc/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aert/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/baseapp/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fiarc/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebdbd/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/cmp/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/credit/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriaufr/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/cdmc/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebufr/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrtpvt/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrt/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ffw/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrkq/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/tmpf/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mapub/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmpub/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebufr/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqdsndbd/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/uapfw/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riaam/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/gl/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bda/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riart/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscqm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriart/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pubapp/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fts/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/rm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sc/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebmrp/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/rlm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/obm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/scapto/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/lcdp/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ampub/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqdsnpvt/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riasm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/phm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/price/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fct/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bc/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pcm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riaam/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riaaam/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sn/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrtpvt/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bond/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/lightbq/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pmsch/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sr/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/batm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrjx/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/iuap/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/iaudit/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pmdoc/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sf/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ccc/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmdm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aedsm/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/lcm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/uapbd/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/alo/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pu/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ufofr/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/me/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrys/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aol/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/rom/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bgm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/scapso/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ifm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscpfm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrtdbd/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/graphic_report/META-INF/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmsfc/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmip/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscpfa/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrtufr/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrtmrp/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/invp/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aemm/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrwa/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/erm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriamrp/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ssckm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ewm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscsfm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ct/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/dm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmfund/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmdp/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aert/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aum/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ptm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riaorg/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pmbd/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/uapfwjca/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrp/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/tmpub/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/uapbs/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriadbd/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmbd/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pmr/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrhi/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/arap/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riadc/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/scaplm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fbm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmpl/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/opm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/tam/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/webrt/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aemm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmmrp/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/lightsmart/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscpub/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pim/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fidata/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriartpub/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/epmp/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/smartba/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrpub/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ufoc/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/epa/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ufoe/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscrp/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fp/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrtdbd/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/qc/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/to/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bcbd/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmam/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmrm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/purp/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fip/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrrpt/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscwo/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebrtpub/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmecn/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/so/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aesm/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ic/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bcbd/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebmrp/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ifac/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bgr/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriapvt/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmpe/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriapvt/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscip/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/baseapp/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriart/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/elm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/gpmc/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/uapbd/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/cca/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebdbd/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ali/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriaufr/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/lappreportrt/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscbd/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriartpub/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hryf/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/workbench/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/cm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/scaba/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrtmrp/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriamrp/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/eom/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmpb/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmmps/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fa/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/scmpub/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmbcm-scm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riamm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ps/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riacc/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/iaudit/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ufds/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/lcdp/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/lappreportrt/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/imag/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmsop/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aesm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/uapss/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrjf/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ufesbexpress/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/nresa/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riaadp/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/platform/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fipub/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmexit/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pma/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/emm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmpg/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrt/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pd/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebrt/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riawf/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ia/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fd/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aeam/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqdsndbd/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pmf/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriadbd/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aeam/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrzz/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebrt/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fmr/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pbm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/rum/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ssctp/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmpac/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aedsm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmpps/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mpp/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebrtpub/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqdsnpvt/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrcm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/uapfwjca/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aim/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bda/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sca/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pmv/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrtufr/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pubapp/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/platform/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscivm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fmc/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riaorg/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrbm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrtrn/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/icdmc/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aert/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/baseapp/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fiarc/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebdbd/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/cmp/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/credit/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriaufr/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/cdmc/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebufr/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrtpvt/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrt/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ffw/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrkq/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/tmpf/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mapub/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmpub/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebufr/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqdsndbd/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/uapfw/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riaam/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/gl/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bda/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riart/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscqm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriart/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pubapp/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fts/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/rm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sc/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebmrp/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/rlm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/obm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/scapto/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/lcdp/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ampub/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqdsnpvt/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riasm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/phm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/price/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fct/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bc/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pcm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riaam/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riaaam/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sn/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrtpvt/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bond/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/lightbq/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pmsch/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sr/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/batm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrjx/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/iuap/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/iaudit/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pmdoc/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sf/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ccc/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmdm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aedsm/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/lcm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/uapbd/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/alo/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pu/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ufofr/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/me/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrys/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aol/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/rom/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bgm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/scapso/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ifm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscpfm/META-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrtdbd/META-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/graphic_report/META-INF/lib" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aeam/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aedsm/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aemm/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aert/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aesm/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aim/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ali/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/alo/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ampub/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aol/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/arap/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aum/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/baseapp/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/batm/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bc/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bcbd/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bda/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bgm/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bgr/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bond/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqdsndbd/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqdsnpvt/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriadbd/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriamrp/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriapvt/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriart/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriartpub/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriaufr/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrt/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrtdbd/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrtmrp/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrtpvt/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrtufr/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebdbd/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebmrp/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebrt/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebrtpub/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebufr/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/cca/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ccc/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/cdmc/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/cm/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/cmp/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/credit/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ct/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/dm/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/elm/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/emm/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/eom/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/epa/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/epmp/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/erm/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ewm/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fa/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fbm/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fct/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fd/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ffw/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fiarc/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fidata/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fip/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fipub/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fmc/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fmr/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fp/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fts/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/gl/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/gpmc/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/graphic_report/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrbm/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrcm/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrhi/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrjf/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrjx/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrkq/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrp/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrpub/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrrpt/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrtrn/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrwa/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hryf/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrys/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrzz/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ia/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/iaudit/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ic/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/icdmc/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ifac/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ifm/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/imag/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/invp/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmam/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmbd/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmdm/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmexit/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmfund/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmip/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmpb/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmpe/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmpg/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmpl/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmrm/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/iuap/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/lappreportrt/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/lcdp/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/lcm/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/lightbq/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/lightsmart/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mapub/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/me/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmbcm-scm/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmdp/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmecn/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmmps/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmmrp/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmpac/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmpps/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmpub/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmsfc/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmsop/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mpp/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/nresa/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/obm/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/opm/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pbm/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pcm/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pd/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/phm/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pim/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/platform/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pma/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pmbd/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pmdoc/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pmf/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pmr/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pmsch/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pmv/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/price/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ps/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ptm/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pu/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pubapp/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/purp/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/qc/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riaaam/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riaadp/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riaam/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riacc/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riadc/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riamm/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riaorg/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riart/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riasm/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riawf/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/rlm/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/rm/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/rom/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/rum/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sc/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sca/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/scaba/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/scaplm/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/scapso/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/scapto/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/scmpub/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sf/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/smartba/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sn/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/so/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sr/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscbd/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscip/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscivm/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ssckm/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscpfa/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscpfm/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscpub/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscqm/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscrp/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscsfm/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ssctp/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscwo/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/tam/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/tmpf/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/tmpub/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/to/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/uapbd/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/uapbs/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/uapfw/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/uapfwjca/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/uapss/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ufds/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ufesbexpress/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ufoc/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ufoe/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ufofr/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/webrt/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/workbench/META-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aeam/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aedsm/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aemm/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aert/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aesm/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aim/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ali/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/alo/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ampub/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aol/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/arap/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/aum/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/baseapp/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/batm/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bc/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bcbd/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bda/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bgm/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bgr/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bond/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqdsndbd/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqdsnpvt/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriadbd/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriamrp/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriapvt/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriart/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriartpub/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqriaufr/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrt/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrtdbd/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrtmrp/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrtpvt/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqrtufr/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebdbd/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebmrp/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebrt/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebrtpub/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/bqwebufr/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/cca/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ccc/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/cdmc/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/cm/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/cmp/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/credit/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ct/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/dm/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/elm/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/emm/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/eom/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/epa/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/epmp/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/erm/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ewm/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fa/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fbm/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fct/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fd/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ffw/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fiarc/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fidata/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fip/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fipub/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fmc/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fmr/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fp/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/fts/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/gl/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/gpmc/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/graphic_report/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrbm/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrcm/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrhi/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrjf/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrjx/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrkq/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrp/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrpub/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrrpt/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrtrn/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrwa/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hryf/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrys/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/hrzz/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ia/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/iaudit/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ic/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/icdmc/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ifac/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ifm/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/imag/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/invp/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmam/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmbd/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmdm/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmexit/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmfund/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmip/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmpb/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmpe/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmpg/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmpl/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ipmrm/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/iuap/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/lappreportrt/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/lcdp/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/lcm/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/lightbq/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/lightsmart/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mapub/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/me/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmbcm-scm/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmdp/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmecn/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmmps/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmmrp/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmpac/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmpps/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmpub/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmsfc/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mmsop/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/mpp/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/nresa/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/obm/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/opm/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pbm/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pcm/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pd/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/phm/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pim/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/platform/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pma/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pmbd/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pmdoc/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pmf/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pmr/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pmsch/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pmv/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/price/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ps/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ptm/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pu/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/pubapp/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/purp/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/qc/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riaaam/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riaadp/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riaam/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riacc/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riadc/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riamm/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riaorg/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riart/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riasm/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/riawf/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/rlm/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/rm/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/rom/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/rum/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sc/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sca/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/scaba/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/scaplm/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/scapso/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/scapto/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/scmpub/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sf/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/smartba/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sn/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/so/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sr/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscbd/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscip/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscivm/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ssckm/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscpfa/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscpfm/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscpub/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscqm/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscrp/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscsfm/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ssctp/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/sscwo/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/tam/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/tmpf/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/tmpub/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/to/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/uapbd/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/uapbs/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/uapfw/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/uapfwjca/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/uapss/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ufds/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ufesbexpress/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ufoc/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ufoe/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/ufofr/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/webrt/META-INF/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../NCCHomes/ncchome-2105/modules/workbench/META-INF/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>
