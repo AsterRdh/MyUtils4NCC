@@ -11,23 +11,20 @@ import java.util.Vector;
 public class SplitAndMergeFile {
 
     /**
-     *
-     * @Description:   文件的分割
-     * @param:         @param splitFile 需要分割的文件
-     * @param:         @param splitSmallFilesDir 分割后的小文件位置
-     * @param:         @param splitSmallFileSize 每个切割的小文件大小
-     * @param:         @return
-     * @return:        List<String> 所有分割的小文件
-     * @throws
+     * 文件的分割
+     * @param splitFile 需要分割的文件
+     * @param splitSmallFilesDir 分割后的小文件位置
+     * @param splitSmallFileSize 每个切割的小文件大小
+     * @return 所有分割的小文件
      */
     public List<String> split(File splitFile,String splitSmallFilesDir,long splitSmallFileSize) {
 
         //被分割文件总大小
         long splitFileSize=splitFile.length();
         //每个小文件分割的起始位置
-        long splitSmallFileBeginPos=0;
+        long splitSmallFileBeginPos;
         //实际分割的小文件大小
-        long splitSmallFileActualSize=splitSmallFileSize>splitFileSize?splitFileSize:splitSmallFileSize;
+        long splitSmallFileActualSize;
         //被分割的小文件个数
         int size=(int)Math.ceil(splitFileSize*1.0/splitSmallFileSize);
         //被分割的小文件路径list
@@ -91,13 +88,11 @@ public class SplitAndMergeFile {
     }
 
     /**
-     *
-     * @Description:   合并文件
-     * @param:         @param splitSmallFileList 小文件列表
-     * @param:         @param mergeFileDir 合并的文件存储的文件夹
-     * @param:         @param mergeFileName 合并的文件新名
-     * @return:        String 合并的文件路径
-     * @throws
+     * 合并文件
+     * @param splitSmallFileList 小文件列表
+     * @param mergeFileDir 合并的文件存储的文件夹
+     * @param mergeFileName 合并的文件新名
+     * @return 合并的文件路径
      */
     public String merge(List<String> splitSmallFileList,String mergeFileDir,String mergeFileName) {
 

@@ -11,6 +11,13 @@ import java.util.Calendar;
 import java.util.Date;
 
 public class DateUtils {
+
+    /**
+     * 数字转多少秒
+     * @param time 数字 如1.2年
+     * @param type 单位
+     * @return 多少秒
+     */
     public static long passLong(UFDouble time, TimeEnum type){
         long res=0l;
         long lTime = time.longValue();
@@ -22,6 +29,13 @@ public class DateUtils {
         }
         return res;
     }
+
+    /**
+     * 数字转多少秒
+     * @param time 数字 如1.2年
+     * @param type 单位 1：年 2：月 3：日
+     * @return 多少秒
+     */
     public static long passLong(UFDouble time,int type){
         switch (type){
             case 0: return passLong(time,TimeEnum.YEAR);
@@ -32,6 +46,12 @@ public class DateUtils {
         }
     }
 
+
+    /**
+     * 获取今天前几天
+     * @param days 天数
+     * @return 日期
+     */
     public static UFDate getDateBefore(int days) {
         Calendar c = Calendar.getInstance();
         c.add(Calendar.DATE, -days);
@@ -39,6 +59,13 @@ public class DateUtils {
         UFDate u= new UFDate(time);
         return u;
     }
+
+    /**
+     * 获取某日前几天
+     * @param days 天数
+     * @param date 日期
+     * @return 日期
+     */
     public static UFDate getDateBefore(int days, Date date) {
         Calendar c = Calendar.getInstance();
         c.setTime(date);
@@ -48,6 +75,13 @@ public class DateUtils {
         return u;
     }
 
+    /**
+     * 获取两个日期查了多少
+     * @param date1 日期1
+     * @param date2 日期2
+     * @param type 单位
+     * @return
+     */
     public static BigDecimal getDateRate(Date date1,Date date2, TimeEnum type){
         switch (type){
             case YEAR:
@@ -60,6 +94,13 @@ public class DateUtils {
         return null;
     }
 
+    /**
+     * 获取两个日期差了多少
+     * @param date1 日期1
+     * @param date2 日期2
+     * @param type 单位 1：年 2：月 3：日
+     * @return 数字 如1.2
+     */
     public static BigDecimal getDateRate(Date date1,Date date2, Integer type){
         switch (type){
             case 1:
@@ -72,13 +113,32 @@ public class DateUtils {
         return null;
     }
 
+    /**
+     * 获取输入日期距现在差了多少
+     * @param date2 日期
+     * @param type 单位 1：年 2：月 3：日
+     * @return 数字 如1.2
+     */
     public static BigDecimal getDateRate(Date date2, Integer type){
         return getDateRate(new Date(),date2,type);
     }
+
+    /**
+     * 获取输入日期距现在差了多少
+     * @param date2 日期
+     * @param type 单位
+     * @return
+     */
     public static BigDecimal getDateRate(Date date2, TimeEnum type){
         return getDateRate(new Date(),date2,type);
     }
 
+    /**
+     * 两个日期间差了多少天
+     * @param date1 日期1
+     * @param date2 日期2
+     * @return 天数
+     */
     private static BigDecimal getDay(Date date1, Date date2) {
         BigDecimal subTime = new BigDecimal(date1.getTime() - date2.getTime());
         BigDecimal day = subTime.divide(new BigDecimal(86400000));
@@ -86,6 +146,12 @@ public class DateUtils {
         return day;
     }
 
+    /**
+     * 两个日期间差了多少年
+     * @param date1 日期1
+     * @param date2 日期2
+     * @return 年数
+     */
     private static BigDecimal getYear(Date date1, Date date2) {
         DateFormat format=new SimpleDateFormat("yyyy-MM-dd");
         Calendar calendar=Calendar.getInstance();
@@ -128,6 +194,13 @@ public class DateUtils {
         return dayYP;
     }
 
+
+    /**
+     * 两个日期间差了多少个月
+     * @param date1 日期1
+     * @param date2 日期2
+     * @return 月数
+     */
     private static BigDecimal getMonth(Date date1, Date date2) {
 
         DateFormat format=new SimpleDateFormat("yyyy-MM-dd");

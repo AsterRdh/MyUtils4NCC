@@ -21,10 +21,24 @@ public class StringUtils {
         if (o==null) return null;
         return o.toString();
     }
+
+    /**
+     * 默认值
+     * @param obj
+     * @param defValue
+     * @return
+     * @param <T>
+     */
     public static <T> T isGetValue(T obj,T defValue){
         return obj==null?defValue:obj;
     }
 
+    /**
+     * 比较两个字符串，如果一个是null则默认为""
+     * @param o1
+     * @param o2
+     * @return
+     */
     public static int compare(String o1,String o2){
         return (isBlank(o1)?"":o1).compareTo((isBlank(o2)?"":o2));
     }
@@ -37,7 +51,6 @@ public class StringUtils {
                     return false;
                 }
             }
-
             return true;
         } else {
             return true;
@@ -51,14 +64,19 @@ public class StringUtils {
     }
 
 
+    /**
+     * 把字符串转换成指定类型（调用目标类型构造方法）
+     * 如果错误返回null
+     * @param value 值
+     * @param clazz 目标类型
+     * @return 对象
+     * @param <E> 目标类型
+     */
     public static <E> E verifyDate(String value,Class<E> clazz) {
         try {
             Constructor<E> dataConstructor = clazz.getConstructor(String.class);
-            E e = dataConstructor.newInstance(value);
-            return e;
-        } catch (NoSuchMethodException e) {
-            e.printStackTrace();
-        } catch (IllegalAccessException | InstantiationException | InvocationTargetException e) {
+            return dataConstructor.newInstance(value);
+        } catch (NoSuchMethodException | IllegalAccessException | InstantiationException | InvocationTargetException e) {
             e.printStackTrace();
         }
         return null;
@@ -68,7 +86,7 @@ public class StringUtils {
      * 依据字符串实际Bytes截取字符串（二分法）
      * @param str 原字符串
      * @param size 目标占用空间（bits）
-     * @return
+     * @return 新字符串
      */
     public static String split(String str, int size){
         int length = str.getBytes().length;
@@ -478,7 +496,6 @@ public class StringUtils {
                             }
                         }
                     }
-
                     return true;
                 } else {
                     return false;
