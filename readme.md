@@ -1,5 +1,6 @@
 # 这是一个为NCC二开的工具类、集合和语法糖的集合
-
+## 使用方法
+将jar包放入ncchome\external\lib目录下
 ## 工具类和语法糖
 1. CollectionUtils 数组、集合的一些常用方法
 2. SplitAndMergeFile 分割、合并文件的工具，比如将大文件存入文件服务器或者多线程分发文件时可以使用
@@ -10,7 +11,7 @@
 7. StringUtils 字符串相关工具
 8. MathUtils 针对UFDouble的数学工具
 9. SqlBuilder sql构造器，新版本开发中
-
+10. ExcelUtils Excel工具类，目前只有 列数和Excel列互转
 ## 集合
 1. MapList
 2. MapSet
