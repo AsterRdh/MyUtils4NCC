@@ -7,7 +7,7 @@ public class ExcelUtils {
      * @param col 列数 从1开始
      * @return Excel列 如AA
      */
-    public String caseToExcelColIndex(int col){
+    public static String caseToExcelColIndex(int col){
         int temp = col ;
         StringBuilder eCol = new StringBuilder();
         while (temp > 26){
@@ -28,7 +28,7 @@ public class ExcelUtils {
      * @param excelCol Excel列 如AAA
      * @return 列数 从1开始
      */
-    public int caseToColIndex(String excelCol){
+    public static int caseToColIndex(String excelCol){
         String temp = excelCol.toUpperCase();
         int i = 0;
 
