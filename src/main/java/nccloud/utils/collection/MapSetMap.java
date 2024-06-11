@@ -3,6 +3,7 @@ package nccloud.utils.collection;
 import java.util.HashSet;
 import java.util.Set;
 
+@Deprecated
 public class MapSetMap<K1,K2,V> extends MapMap<K1,K2,Set<V>>{
 
     public void putSet(K1 key,K2 key2,V value){

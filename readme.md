@@ -13,10 +13,29 @@
 9. SqlBuilder sql构造器，新版本开发中
 10. ExcelUtils Excel工具类，目前只有 列数和Excel列互转
 ## 集合
-1. MapList
-2. MapSet
-3. MapMap
-4. MapMapList
-5. MapMapSet
-6. Map3
-7. Map3List
+### 1. MapList<K,V>
+封装 HashMap<K,ArrayList<V>>
+### 2. MapSet<K,V>
+封装 HashMap<K,HashSet<V>>
+### 3. MapStack<K,V>
+封装 HashMap<K,Stack<V>>
+### 3. MapMap<K1,K2,V>
+封装 HashMap<K1,Map<K2,V>>
+### 4. MapMapList<K1,K2,V>
+封装 HashMap<K1,MapList<K2,V>>
+### 5. MapMapSet<K1,K2,V>
+封装 HashMap<K1,MapSet<K2,V>>
+### 6. MapMapStack<K1,K2,V>
+封装 HashMap<K1,MapStack<K2,V>>
+### 7. Map3<K1,K2,,K3,V>
+封装 HashMap<K1,MapMap<K2,K3,V>>
+### 8. Map3List<K1,K2,,K3,V>
+封装 HashMap<K1,MapList<K2,K3,V>>
+### 9. Map3Stack<K1,K2,K3,V>
+封装 HashMap<K1,MapStack<K2,K3,V>>
+### 10. RangeMap <K,V> 
+范围Map，不适合处理跨度较大的数  
+示例见 space.cyberaster.utils.range.App
+
+
+

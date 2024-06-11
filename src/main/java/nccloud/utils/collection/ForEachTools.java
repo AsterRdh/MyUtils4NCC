@@ -2,12 +2,10 @@ package nccloud.utils.collection;
 
 import nccloud.utils.functions.ConsumerWithException;
 
+import java.math.BigDecimal;
 import java.util.Arrays;
 import java.util.Collection;
 import java.util.Iterator;
-import java.util.Map;
-import java.util.function.Consumer;
-import java.util.function.Function;
 
 public class ForEachTools {
     private static ForEachTools forEachTools;
@@ -45,7 +43,12 @@ public class ForEachTools {
                 ifHasNext.accept(next);
             }
         }
+        BigDecimal decimal = new BigDecimal(1);
+        decimal.multiply(new BigDecimal(2));
+        decimal.divide(new BigDecimal(2));
     }
+
+
 
 //    public <K,V> void forEachMap(Map<K,V> map, Consumer<E> inKeyLoop, Consumer<E> ifHasNext){
 //
