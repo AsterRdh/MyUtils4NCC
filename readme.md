@@ -14,6 +14,7 @@
 10. ExcelUtils Excel工具类，目前只有 列数和Excel列互转
 11. CellBuilder poiExcel的行列构建器
 12. StyleBuilder poiExcel的单元格格式构建器
+13. MapUtils 为Map<K,Object>数据提供快捷优雅的类型转换方法
 
 ## 集合
 ### 1. MapList<K,V>
