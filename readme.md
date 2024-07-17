@@ -12,6 +12,9 @@
 8. MathUtils 针对UFDouble的数学工具
 9. SqlBuilder sql构造器，新版本开发中
 10. ExcelUtils Excel工具类，目前只有 列数和Excel列互转
+11. CellBuilder poiExcel的行列构建器
+12. StyleBuilder poiExcel的单元格格式构建器
+
 ## 集合
 ### 1. MapList<K,V>
 封装 HashMap<K,ArrayList<V>>
